@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markusrobnik
-- 👀 I’m interested in coding java and ruby!
-- 🌱 I’m currently learning java and ruby!
+- 👀 I’m interested in coding java and python!
+- 🌱 I’m currently learning java and python!
 - 📫 How to reach me ...
 
 <!---
